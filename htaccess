@@ -1,0 +1,78 @@
+# BEGIN WP Hide & Security Enhancer
+<IfModule mod_rewrite.c> 
+RewriteEngine On 
+RewriteBase / 
+#WriteCheckString:1548238985_79755
+RewriteRule .* - [E=HTTP_MOD_REWRITE:On]
+
+# BEGIN Directory Browsing Block
+
+Options -Indexes
+
+# END Directory Browsing Block
+
+RewriteRule ^turbo/(.+) /wp-content/themes/porto/$1 [L,QSA]
+</IfModule> 
+
+# END WP Hide & Security Enhancer
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# Prevent viewing of htaccess file.
+<Files .htaccess>
+    order allow,deny
+    deny from all
+</Files>
+# Prevent viewing of php5.ini, wp-config.php file.
+<FilesMatch "^.*(error_log|wp-config\.php|php5.ini|\.[hH][tT][aApP].*)$">
+Order deny,allow
+Deny from all
+</FilesMatch>
+
+<FilesMatch "\.(?i:gif|jpe?g|png|ico|css|js|swf)$">
+
+<IfModule mod_headers.c>
+    Header set Cache-Control "max-age=172800, public, must-revalidate"
+</IfModule>
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType text/javascript "access plus 1 month"
+ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+
+</FilesMatch>
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{QUERY_STRING} (<|%3C).*script.*(>|%3E) [NC,OR]
+RewriteCond %{QUERY_STRING} GLOBALS(=|[|%[0-9A-Z]{0,2}) [OR]
+RewriteCond %{QUERY_STRING} _REQUEST(=|[|%[0-9A-Z]{0,2})
+RewriteRule ^(.*)$ index.php [F,L]
+
+
+
+# upload file size
+AddDefaultCharset UTF-8
+php_value upload_max_filesize 512M
+php_value post_max_size 2000M
+php_value max_execution_time 3000
+php_value max_input_time 500
+php_value memory_limit 3000M

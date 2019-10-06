@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Allow: /~turbova1/wp-admin/admin-ajax.php
+Disallow: /wp-content/plugins/
+Disallow: /~turbova1/wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+ 
+Sitemap: https://www.turbovanesltd.com/sitemap_index.xml

@@ -1,0 +1,1860 @@
+{
+    "RPT": {
+        "ScanTime": "0.373 sec.",
+        "ScanFile": "20190903_turbovanesltd_c3c1485a0991b4db4063_20190903162807_scan.json",
+        "ScanCreated": "2019-09-03 16:28:11",
+        "ScanPath": "\/home\/relacom\/public_html\/wp-content\/backups-dup-pro\/tmp\/20190903_turbovanesltd_c3c1485a0991b4db4063_20190903162807_scan.json"
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": false,
+            "ismu": false,
+            "ismuplus": false,
+            "ALL": "Warn"
+        }
+    },
+    "ARC": {
+        "Size": "2.17GB",
+        "DirCount": "297",
+        "FileCount": "3,256",
+        "FullCount": "3,553",
+        "USize": 2332402754,
+        "UDirCount": 297,
+        "UFileCount": 3256,
+        "UFullCount": 3553,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/relacom\/public_html\/wp-content",
+            "\/home\/relacom\/public_html\/wp-content\/ai1wm-backups",
+            "\/home\/relacom\/public_html\/wp-content\/backups-dup-pro",
+            "\/home\/relacom\/public_html\/wp-content\/backupwordpress",
+            "\/home\/relacom\/public_html\/wp-content\/cache",
+            "\/home\/relacom\/public_html\/wp-content\/content\/cache",
+            "\/home\/relacom\/public_html\/wp-content\/contents\/cache",
+            "\/home\/relacom\/public_html\/wp-content\/infinitewp\/backups",
+            "\/home\/relacom\/public_html\/wp-content\/managewp\/backups",
+            "\/home\/relacom\/public_html\/wp-content\/old-cache",
+            "\/home\/relacom\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/relacom\/public_html\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/relacom\/public_html\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/relacom\/public_html\/wp-content\/updraft",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/backup-guard",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/snapshots",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/sucuri",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/wp-clone",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/relacom\/public_html\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/relacom\/public_html\/wp-content\/wfcache",
+            "\/home\/relacom\/public_html\/wp-content\/wishlist-backup",
+            "\/home\/relacom\/public_html\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/relacom\/public_html\/.htaccess",
+            "\/home\/relacom\/public_html\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error.log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [
+                    "\/home\/relacom\/public_html\/wp-content\/backups-dup-pro"
+                ],
+                "Global": [
+                    "\/home\/relacom\/public_html\/wp-snapshots",
+                    "\/home\/relacom\/public_html\/wp-content\/ai1wm-backups",
+                    "\/home\/relacom\/public_html\/wp-content\/backupwordpress",
+                    "\/home\/relacom\/public_html\/wp-content\/content\/cache",
+                    "\/home\/relacom\/public_html\/wp-content\/contents\/cache",
+                    "\/home\/relacom\/public_html\/wp-content\/infinitewp\/backups",
+                    "\/home\/relacom\/public_html\/wp-content\/managewp\/backups",
+                    "\/home\/relacom\/public_html\/wp-content\/old-cache",
+                    "\/home\/relacom\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "\/home\/relacom\/public_html\/wp-content\/updraft",
+                    "\/home\/relacom\/public_html\/wp-content\/wishlist-backup",
+                    "\/home\/relacom\/public_html\/wp-content\/wfcache",
+                    "\/home\/relacom\/public_html\/wp-content\/plugins\/really-simple-captcha\/tmp",
+                    "\/home\/relacom\/public_html\/wp-content\/plugins\/wordfence\/tmp",
+                    "\/home\/relacom\/public_html\/wp-content\/cache",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/aiowps_backups",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/mainwp\/backup",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/snapshots",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/sucuri",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/wp-clone",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/wp_all_backup",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/wpbackitup_backups",
+                    "\/home\/relacom\/public_html\/wp-content\/uploads\/backup-guard"
+                ],
+                "Instance": [
+                    "\/home\/relacom\/public_html\/wp-content"
+                ]
+            },
+            "Files": {
+                "Warning": [],
+                "Unreadable": [],
+                "Size": [
+                    {
+                        "ubytes": 11200591,
+                        "bytes": "10.68MB",
+                        "name": "wordpress-5.2.2(1).tar.gz",
+                        "dir": "\/home\/relacom\/public_html\/test",
+                        "path": "\/home\/relacom\/public_html\/test\/wordpress-5.2.2(1).tar.gz"
+                    },
+                    {
+                        "ubytes": 2242656897,
+                        "bytes": "2.09GB",
+                        "name": "wp-content.tar.gz",
+                        "dir": "\/home\/relacom\/public_html",
+                        "path": "\/home\/relacom\/public_html\/wp-content.tar.gz"
+                    }
+                ],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store",
+                    "\/home\/relacom\/public_html\/.htaccess",
+                    "\/home\/relacom\/public_html\/wp-config.php"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "TreeSize": {
+                "text": "\/home\/relacom\/public_html",
+                "fullPath": "\/home\/relacom\/public_html",
+                "type": "folder",
+                "state": {
+                    "opened": true,
+                    "disabled": false,
+                    "selected": false,
+                    "checked": false,
+                    "checkbox_disabled": false
+                },
+                "children": [
+                    {
+                        "text": ".mailsubdom",
+                        "fullPath": "\/home\/relacom\/public_html\/.mailsubdom",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": ".well-known",
+                        "fullPath": "\/home\/relacom\/public_html\/.well-known",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "cgi-bin",
+                        "fullPath": "\/home\/relacom\/public_html\/cgi-bin",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": false,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "test",
+                        "fullPath": "\/home\/relacom\/public_html\/test",
+                        "type": "folder",
+                        "state": {
+                            "opened": true,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": [
+                            {
+                                "text": "wordpress",
+                                "fullPath": "\/home\/relacom\/public_html\/test\/wordpress",
+                                "type": "folder",
+                                "state": {
+                                    "opened": false,
+                                    "disabled": false,
+                                    "selected": false,
+                                    "checked": false,
+                                    "checkbox_disabled": false
+                                },
+                                "children": true,
+                                "li_attr": {
+                                    "class": ""
+                                },
+                                "a_attr": []
+                            },
+                            {
+                                "text": "wordpress-5.2.2(1).tar.gz <b style=\"color: black;\">[10.68MB]<\/b>",
+                                "fullPath": "\/home\/relacom\/public_html\/test\/wordpress-5.2.2(1).tar.gz",
+                                "type": "file",
+                                "state": {
+                                    "opened": false,
+                                    "disabled": false,
+                                    "selected": false,
+                                    "checked": false,
+                                    "checkbox_disabled": false
+                                },
+                                "children": null,
+                                "li_attr": {
+                                    "class": " warning-node"
+                                },
+                                "a_attr": []
+                            }
+                        ],
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "turbovanes",
+                        "fullPath": "\/home\/relacom\/public_html\/turbovanes",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-admin",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-admin",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-admin_",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-admin_",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-content",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-content",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This dir is filtered."
+                        }
+                    },
+                    {
+                        "text": "wp-includes",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-includes",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-includes_",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-includes_",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-snapshots",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-snapshots",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": false,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This dir is filtered."
+                        }
+                    },
+                    {
+                        "text": "wp-content.tar.gz <b style=\"color: black;\">[2.09GB]<\/b>",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-content.tar.gz",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " warning-node"
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": ".ftpquota",
+                        "fullPath": "\/home\/relacom\/public_html\/.ftpquota",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": ".htaccess",
+                        "fullPath": "\/home\/relacom\/public_html\/.htaccess",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": ".user.ini",
+                        "fullPath": "\/home\/relacom\/public_html\/.user.ini",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "error_log",
+                        "fullPath": "\/home\/relacom\/public_html\/error_log",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "five.php",
+                        "fullPath": "\/home\/relacom\/public_html\/five.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "four.php",
+                        "fullPath": "\/home\/relacom\/public_html\/four.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "htaccess",
+                        "fullPath": "\/home\/relacom\/public_html\/htaccess",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "index.php",
+                        "fullPath": "\/home\/relacom\/public_html\/index.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "license.txt",
+                        "fullPath": "\/home\/relacom\/public_html\/license.txt",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "one.php",
+                        "fullPath": "\/home\/relacom\/public_html\/one.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "php.ini",
+                        "fullPath": "\/home\/relacom\/public_html\/php.ini",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "php5.ini-old",
+                        "fullPath": "\/home\/relacom\/public_html\/php5.ini-old",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "readme.html",
+                        "fullPath": "\/home\/relacom\/public_html\/readme.html",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "robots.txt",
+                        "fullPath": "\/home\/relacom\/public_html\/robots.txt",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "test.php",
+                        "fullPath": "\/home\/relacom\/public_html\/test.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "three.php",
+                        "fullPath": "\/home\/relacom\/public_html\/three.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "two.php",
+                        "fullPath": "\/home\/relacom\/public_html\/two.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "update_products_table.php",
+                        "fullPath": "\/home\/relacom\/public_html\/update_products_table.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wordfence-waf.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wordfence-waf.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-activate.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-activate.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-blog-header.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-blog-header.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-cli.yml",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-cli.yml",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-comments-post.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-comments-post.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config-sample.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-config-sample.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-config.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": "wp-cron.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-cron.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-links-opml.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-links-opml.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-load.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-load.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-login.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-login.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-mail.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-mail.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-settings.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-settings.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-signup.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-signup.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-trackback.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-trackback.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "xmlrpc.php",
+                        "fullPath": "\/home\/relacom\/public_html\/xmlrpc.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    }
+                ],
+                "li_attr": {
+                    "class": " root-node core-node"
+                },
+                "a_attr": {
+                    "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                }
+            },
+            "TreeWarning": {
+                "text": "\/home\/relacom\/public_html",
+                "fullPath": "\/home\/relacom\/public_html",
+                "type": "folder",
+                "state": {
+                    "opened": true,
+                    "disabled": false,
+                    "selected": false,
+                    "checked": false,
+                    "checkbox_disabled": false
+                },
+                "children": [
+                    {
+                        "text": ".mailsubdom",
+                        "fullPath": "\/home\/relacom\/public_html\/.mailsubdom",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": ".well-known",
+                        "fullPath": "\/home\/relacom\/public_html\/.well-known",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "cgi-bin",
+                        "fullPath": "\/home\/relacom\/public_html\/cgi-bin",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": false,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "test",
+                        "fullPath": "\/home\/relacom\/public_html\/test",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "turbovanes",
+                        "fullPath": "\/home\/relacom\/public_html\/turbovanes",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-admin",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-admin",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-admin_",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-admin_",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-content",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-content",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This dir is filtered."
+                        }
+                    },
+                    {
+                        "text": "wp-includes",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-includes",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-includes_",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-includes_",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-snapshots",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-snapshots",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": false,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This dir is filtered."
+                        }
+                    },
+                    {
+                        "text": ".ftpquota",
+                        "fullPath": "\/home\/relacom\/public_html\/.ftpquota",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": ".htaccess",
+                        "fullPath": "\/home\/relacom\/public_html\/.htaccess",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": ".user.ini",
+                        "fullPath": "\/home\/relacom\/public_html\/.user.ini",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "error_log",
+                        "fullPath": "\/home\/relacom\/public_html\/error_log",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "five.php",
+                        "fullPath": "\/home\/relacom\/public_html\/five.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "four.php",
+                        "fullPath": "\/home\/relacom\/public_html\/four.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "htaccess",
+                        "fullPath": "\/home\/relacom\/public_html\/htaccess",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "index.php",
+                        "fullPath": "\/home\/relacom\/public_html\/index.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "license.txt",
+                        "fullPath": "\/home\/relacom\/public_html\/license.txt",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "one.php",
+                        "fullPath": "\/home\/relacom\/public_html\/one.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "php.ini",
+                        "fullPath": "\/home\/relacom\/public_html\/php.ini",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "php5.ini-old",
+                        "fullPath": "\/home\/relacom\/public_html\/php5.ini-old",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "readme.html",
+                        "fullPath": "\/home\/relacom\/public_html\/readme.html",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "robots.txt",
+                        "fullPath": "\/home\/relacom\/public_html\/robots.txt",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "test.php",
+                        "fullPath": "\/home\/relacom\/public_html\/test.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "three.php",
+                        "fullPath": "\/home\/relacom\/public_html\/three.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "two.php",
+                        "fullPath": "\/home\/relacom\/public_html\/two.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "update_products_table.php",
+                        "fullPath": "\/home\/relacom\/public_html\/update_products_table.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wordfence-waf.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wordfence-waf.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-activate.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-activate.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-blog-header.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-blog-header.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-cli.yml",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-cli.yml",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-comments-post.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-comments-post.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config-sample.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-config-sample.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-config.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": "wp-content.tar.gz",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-content.tar.gz",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-cron.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-cron.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-links-opml.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-links-opml.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-load.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-load.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-login.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-login.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-mail.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-mail.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-settings.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-settings.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-signup.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-signup.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-trackback.php",
+                        "fullPath": "\/home\/relacom\/public_html\/wp-trackback.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "xmlrpc.php",
+                        "fullPath": "\/home\/relacom\/public_html\/xmlrpc.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    }
+                ],
+                "li_attr": {
+                    "class": " root-node core-node"
+                },
+                "a_attr": {
+                    "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                }
+            }
+        },
+        "Status": {
+            "Size": "Warn",
+            "Names": "Good",
+            "Big": "Warn",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good"
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good"
+        },
+        "Size": "0B",
+        "Rows": "0",
+        "TableCount": 0,
+        "TableList": []
+    },
+    "Status": 1
+}
